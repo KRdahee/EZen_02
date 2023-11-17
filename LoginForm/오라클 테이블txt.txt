@@ -1,0 +1,13 @@
+회원가입할때!
+CREATE table member(
+NAME            VARCHAR2(10) 
+USERID NOT NULL VARCHAR2(10) 
+PWD             VARCHAR2(10) 
+EMAIL           VARCHAR2(20) 
+PHONE           CHAR(13)     
+ADMIN           NUMBER(1)    
+GENDER          VARCHAR2(10) 
+);
+
+
+
